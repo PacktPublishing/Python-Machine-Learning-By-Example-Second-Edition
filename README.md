@@ -59,7 +59,7 @@ is an author of a series of machine learning books and an education enthusiast. 
 He is an experienced data scientist who's focused on developing machine learning and deep learning models and systems. He has worked in a variety of data-driven domains and has applied his machine learning expertise to computational advertising, recommendation, and network anomaly detection. He published five first-authored IEEE transaction and conference papers during his master's research at the University of Toronto.
 
 ## Other books by the authors
-[ Follow the Authors ](https://www.amazon.in/Deep-Learning-Projects-techniques-develop/dp/1788478401/ref=asap_bc?ie=UTF8&utm_source=github&utm_medium=repository&utm_campaign=)
+[R Deep Learning Projects](https://www.amazon.in/Deep-Learning-Projects-techniques-develop/dp/1788478401/ref=asap_bc?ie=UTF8&utm_source=github&utm_medium=repository&utm_campaign=)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
