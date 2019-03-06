@@ -2,7 +2,7 @@
 
 <a href="https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://images-na.ssl-images-amazon.com/images/I/51A5AUe1wAL._SX404_BO1,204,203,200_.jpg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Python Machine Learning By Example Second Edition](https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
 **Implement machine learning algorithms and techniques to build intelligent systems**
 
