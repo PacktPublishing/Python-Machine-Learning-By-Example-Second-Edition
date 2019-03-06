@@ -58,7 +58,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is an author of a series of machine learning books and an education enthusiast. His first book, the first edition of Python Machine Learning By Example, was a #1 bestseller in Amazon India in 2017 and 2018. His other books include R Deep Learning Projects and Hands-On Deep Learning Architectures with Python published by Packt.
 He is an experienced data scientist who's focused on developing machine learning and deep learning models and systems. He has worked in a variety of data-driven domains and has applied his machine learning expertise to computational advertising, recommendation, and network anomaly detection. He published five first-authored IEEE transaction and conference papers during his master's research at the University of Toronto.
 
-## Other books by the authors
+## Another book by the author
 [R Deep Learning Projects](https://www.amazon.in/Deep-Learning-Projects-techniques-develop/dp/1788478401/ref=asap_bc?ie=UTF8&utm_source=github&utm_medium=repository&utm_campaign=)
 
 ### Suggestions and Feedback
