@@ -2,7 +2,7 @@
 
 <a href="https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://images-na.ssl-images-amazon.com/images/I/51A5AUe1wAL._SX404_BO1,204,203,200_.jpg" alt="" height="256px" align="right"></a>
 
-This is the code repository for [Python Machine Learning By Example Second Edition](https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Python Machine Learning By Example Second Edition](https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign=%22), published by Packt.
 
 **Implement machine learning algorithms and techniques to build intelligent systems**
 
@@ -49,9 +49,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789616729_ColorImages.pdf).
 
 ### Related products
-*  https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition  [[Packt]](https://www.amazon.in/Deep-Learning-Projects-techniques-develop/dp/1788478401/ref=asap_bc?ie=UTF8&utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-788-47840-1)
+*  https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-systems-python-third-edition  [[Packt]](https://www.amazon.in/Deep-Learning-Projects-techniques-develop/dp/1788478401/ref=asap_bc?ie=UTF8&utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/gp/product/1788623223/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
-* https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-algorithms-second-edition [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
+* https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-algorithms-second-edition [[Packt]]() [[Amazon]](https://www.amazon.in/Machine-Learning-Algorithms-algorithms-learning/dp/1789347998/ref=sr_1_3?ie=UTF8&qid=1551877707&sr=8-3&keywords=Machine+Learning+Algorithms)
 
 ## Get to Know the Author
 **Yuxi (Hayden) Liu**
