@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Python Machine Learning By Example Second Edition
 
 <a href="https://www.amazon.in/Python-Machine-Learning-Example-Second-Edition-Hayden/dp/1789616727?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://images-na.ssl-images-amazon.com/images/I/51A5AUe1wAL._SX404_BO1,204,203,200_.jpg" alt="" height="256px" align="right"></a>
